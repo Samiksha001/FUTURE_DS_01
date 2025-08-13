@@ -2,6 +2,7 @@
 📊 Business Sales Dashboard from E-commerce Data
 
 📌 Project Overview
+
 This project involves creating a professional and interactive Power BI dashboard using real-world e-commerce sales data. The dashboard is designed to help business owners and decision-makers identify best-selling products, track monthly sales trends, and analyze category-wise and regional performance.
 
 The aim is to transform raw sales data into meaningful insights for data-driven decision-making — without requiring complex coding skills.
@@ -20,6 +21,7 @@ KPI Creation with DAX – Building calculated measures for sales, profit, and di
 Business Storytelling with Visuals – Presenting insights in an engaging, decision-friendly format.
 
 ✨ Dashboard Highlights
+
 KPIs at a Glance – Total Sales, Profit, Discount, and Quantity.
 
 Top Performing Segments – Sales distribution across Consumer, Corporate, and Home Office.
@@ -35,6 +37,7 @@ Category & Sub-Category Insights – Profit by category and sales funnel by sub-
 Interactive Filters – Drill down by city, segment, and customer name for detailed exploration.
 
 🛠 Technology Used
+
 Power BI Desktop – For dashboard design and interactive visualizations.
 
 Microsoft Excel – For initial data exploration and formatting.
