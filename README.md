@@ -8,6 +8,7 @@ This project involves creating a professional and interactive Power BI dashboard
 The aim is to transform raw sales data into meaningful insights for data-driven decision-making — without requiring complex coding skills.
 
 🚀 Key Learnings
+
 Through this project, I learned:
 
 Data Cleaning & Transformation – Preparing raw CSV/Excel data for analysis.
@@ -45,6 +46,7 @@ Microsoft Excel – For initial data exploration and formatting.
 DAX (Data Analysis Expressions) – For creating KPIs and calculated fields.
 
 📂 Data Source
+
 Superstore Sales Dataset – Includes order details, regions, categories, and sales performance metrics.
 
 📈 Insights & Recommendations
